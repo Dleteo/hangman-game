@@ -4,7 +4,7 @@ Link del proyecto al final ⬇
 
 ---
 
-Este es el segundo Challenge del programa ONE - Oracle Next Education, donde se realizó un proyecto de **juego del ahorcado**.
+Este es el segundo Challenge 
 
 ---
 
