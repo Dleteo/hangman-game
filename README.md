@@ -35,5 +35,5 @@ Este es el segundo Challenge
 
 ---
 
-[**Link de la página** ✌]()
+[**Link de la página** ✌](https://dleteo.github.io/hangman-game/)
 ---
